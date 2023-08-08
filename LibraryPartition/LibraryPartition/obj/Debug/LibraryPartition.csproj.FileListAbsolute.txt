@@ -1,0 +1,11 @@
+C:\Users\soykan\Desktop\C\C Working\LibraryPartition\LibraryPartition\bin\Debug\LibraryPartition.exe.config
+C:\Users\soykan\Desktop\C\C Working\LibraryPartition\LibraryPartition\bin\Debug\LibraryPartition.exe
+C:\Users\soykan\Desktop\C\C Working\LibraryPartition\LibraryPartition\bin\Debug\LibraryPartition.pdb
+C:\Users\soykan\Desktop\C\C Working\LibraryPartition\LibraryPartition\bin\Debug\MyLibrary.dll
+C:\Users\soykan\Desktop\C\C Working\LibraryPartition\LibraryPartition\bin\Debug\MyLibrary.pdb
+C:\Users\soykan\Desktop\C\C Working\LibraryPartition\LibraryPartition\obj\Debug\LibraryPartition.csprojResolveAssemblyReference.cache
+C:\Users\soykan\Desktop\C\C Working\LibraryPartition\LibraryPartition\obj\Debug\LibraryPartition.exe
+C:\Users\soykan\Desktop\C\C Working\LibraryPartition\LibraryPartition\obj\Debug\LibraryPartition.pdb
+C:\Users\soykan\Desktop\C#\C# Working\LibraryPartition\LibraryPartition\bin\Debug\LibraryPartition.exe.config
+C:\Users\soykan\Desktop\C#\C# Working\LibraryPartition\LibraryPartition\obj\Debug\LibraryPartition.exe
+C:\Users\soykan\Desktop\C#\C# Working\LibraryPartition\LibraryPartition\obj\Debug\LibraryPartition.pdb

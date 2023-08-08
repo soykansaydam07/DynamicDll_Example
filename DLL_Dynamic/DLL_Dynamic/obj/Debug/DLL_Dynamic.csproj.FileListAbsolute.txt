@@ -1,0 +1,5 @@
+C:\Users\soykan\Desktop\C\C Working\DLL_Dynamic\DLL_Dynamic\bin\Debug\DLL_Dynamic.exe.config
+C:\Users\soykan\Desktop\C\C Working\DLL_Dynamic\DLL_Dynamic\bin\Debug\DLL_Dynamic.exe
+C:\Users\soykan\Desktop\C\C Working\DLL_Dynamic\DLL_Dynamic\bin\Debug\DLL_Dynamic.pdb
+C:\Users\soykan\Desktop\C\C Working\DLL_Dynamic\DLL_Dynamic\obj\Debug\DLL_Dynamic.exe
+C:\Users\soykan\Desktop\C\C Working\DLL_Dynamic\DLL_Dynamic\obj\Debug\DLL_Dynamic.pdb
